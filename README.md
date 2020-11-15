@@ -15,8 +15,8 @@ pip install keras
 pip install PIL
 
 A pasta de datasets se encontra no link: 
-https://drive.google.com/drive/folders/1BuZdqiJID6ZvAY1ghfhO6d6y9UjZhNzw?usp=sharing
-Contém os datasets usados na pesquisa e deve ser inserida dentro da pasta 'arquivos'.
-Após isso, basta rodar o script icfabio2020.py :)
+https://drive.google.com/drive/folders/1BuZdqiJID6ZvAY1ghfhO6d6y9UjZhNzw?usp=sharing.
+A pasta contém os datasets usados na pesquisa e deve ser inserida dentro da pasta 'arquivos'. 
+Após isso, basta rodar o script icfabio2020.py clicando nele ou através das linhas de comando :)
 
 SOFTWARE SOB LICENSA GNU-GPL Versão 3.
