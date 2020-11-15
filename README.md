@@ -13,3 +13,5 @@ no terminal para linhas de comando de sua máquina:
 pip install tensorflow
 pip install keras
 pip install PIL
+
+Após isso, basta rodar o programa icfabio2020.py :)
