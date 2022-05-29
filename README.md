@@ -10,9 +10,12 @@ Além do python, o usuário deve instalar através do gerenciador de pacotes pip
 os seguintes pacotes: PIL, keras e tensorflow.
 Basta o usuário utilizar os seguintes comandos 
 no terminal para linhas de comando de sua máquina:
-pip install tensorflow
-pip install keras
-pip install PIL
+- pip install tensorflow
+
+- pip install keras
+
+- pip install PIL
+
 
 A pasta de datasets se encontra no link: 
 https://drive.google.com/drive/folders/1BuZdqiJID6ZvAY1ghfhO6d6y9UjZhNzw?usp=sharing.
